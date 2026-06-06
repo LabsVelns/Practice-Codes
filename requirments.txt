@@ -1,3 +1,6 @@
 # FastAPI practice
 fastapi
 uvicorn
+
+#Pydantic
+Pydantic
